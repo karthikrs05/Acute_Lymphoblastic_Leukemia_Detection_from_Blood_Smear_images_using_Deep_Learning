@@ -7,6 +7,7 @@ This repository presents a deep learning pipeline for the detection of Acute Lym
 ## 📌 Overview
 
 Acute Lymphoblastic Leukemia is a severe form of blood cancer. Manual diagnosis using blood smear microscopy is time-consuming and prone to errors. This project introduces an automated solution using DenseNet201, a powerful convolutional neural network architecture pretrained on ImageNet, fine-tuned for this medical task.
+Dataset : [Link Text](https://www.kaggle.com/datasets/mehradaria/leukemia)
 
 ---
 
